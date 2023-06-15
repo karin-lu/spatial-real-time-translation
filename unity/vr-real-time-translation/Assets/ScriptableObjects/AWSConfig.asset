@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fbecb0b6e2db44419a0b2f6ad1afb80, type: 3}
   m_Name: AWSConfig
   m_EditorClassIdentifier: 
-  _region: 10
+  _region: 25
   Cognito:
-    UserPoolID: 
-    AppClientID: 
-    IdentityPoolID: 
+    UserPoolID: eu-central-1_MS38uXgxL
+    AppClientID: 4onj24hsqomvvr5gcouhnu181d
+    IdentityPoolID: eu-central-1:a424b49d-ecaf-430e-9d68-6bee30c84de5
